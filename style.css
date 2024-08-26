@@ -153,7 +153,7 @@
     align-items: center;
     justify-content: center;
 }
-#one .right img{
+#one .right iframe{
     height: 80%;
     width: 80%;
 }
@@ -355,7 +355,7 @@
         margin-top: 10px;
     }
    
-    #one .right img{
+    #one .right iframe{
         height: 60%;
         width: 70%;
     }
